@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "iEquityv4",
+    "slug": "iEquityv4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconv4.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mxnanzzz.iEquityv4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
